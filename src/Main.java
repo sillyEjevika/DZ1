@@ -5,6 +5,6 @@ public class Main {
         var cat = 3.6;
         System.out.println(cat);
         var paper = 763789;
-        System.out.println(paper);;
+        System.out.println(paper);
     }
 }
